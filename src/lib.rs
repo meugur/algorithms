@@ -4,8 +4,8 @@ mod merge;
 mod bubble;
 
 // Geometric
-// mod point;
-// mod closest_pair;
+mod point;
+mod closest_pair;
 
 // Dynamic Programming
 mod rod_cutting;
