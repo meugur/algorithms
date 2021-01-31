@@ -37,7 +37,6 @@ mod tests {
     }
 
     #[test]
-    #[ignore]
     fn sort_large() {
         let mut a: Vec<_> = (0..10000).rev().collect();
         let b: Vec<_> = (0..10000).collect();
