@@ -6,6 +6,7 @@ mod bubble;
 // Geometric
 mod point;
 mod closest_pair;
+// TODO mod pareto_opt_pair;
 
 // Dynamic Programming
 mod rod_cutting;
@@ -20,6 +21,9 @@ mod longest_common_subseq;
 // TODO mod longest_path_dag;
 
 // Greedy
+mod interval_scheduling;
+// TODO mod huffman_codes
+// TODO mod stable_matching;
 
 // Other
 mod histo_rect;
