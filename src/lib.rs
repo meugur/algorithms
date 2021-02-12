@@ -18,3 +18,8 @@ mod edit_distance;
 // TODO mod opt_bin_search_tree;
 // TODO mod max_independent_set;
 // TODO mod longest_path_dag;
+
+// Greedy
+
+// Other
+mod histo_rect;
